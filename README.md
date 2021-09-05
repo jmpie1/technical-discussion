@@ -1,2 +1,5 @@
-# technical-discussion
-Repo for sharing ideas
+# Technical-discussion
+Repo for sharing ideas 
+## second heading
+* one
+* two
